@@ -54,7 +54,7 @@ const Header = () => {
               </Link> */}
 
               <h2>
-                <span style={{ color: "red" }}>P</span>atryk Kruk
+                <span style={{ color: "red" }}>M</span>uhammad Bilal
               </h2>
             </div>
             <div className="menu">
