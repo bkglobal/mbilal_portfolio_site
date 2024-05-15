@@ -2,10 +2,11 @@ export const aboutMeData = {
   intro: "Muhammad Bilal",
   expertise: [
     "Lead Full Stack Developer",
+    "Senior Data Engineer",
+    "Data Analyst",
+    "Data Orchestration Expert",
     "System Architect",
-    "Senior Software Engineer",
     "Mobile App Developer",
-    "CMS and eCommerce Developer",
     "DevOps Engineer",
   ],
   introText:
